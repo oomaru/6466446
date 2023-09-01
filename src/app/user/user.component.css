@@ -8,4 +8,11 @@ td {
 button.delete {
     background-color: white;
     color: red;
+
+}
+
+button {
+    padding: 5px;
+    border: 1px solid #222;
+    width: 80px;
 }
